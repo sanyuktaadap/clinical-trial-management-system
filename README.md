@@ -12,3 +12,10 @@ The drugs given will be tested at different stages of the trial and the test res
 ## ER Diagram
 
 ![er_diagram](extra/Final%20ERD.png)
+
+
+## GUI - Test table
+
+- Added code to get a GUI for adding, editing, deleting and viewing the Test table.
+
+![sample_ui](extra/sample_ui.png)
