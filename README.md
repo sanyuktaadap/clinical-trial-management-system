@@ -1,5 +1,4 @@
-# clinical_trial_management_system
-Relational Database Management System for Clinical Trials
+# Relational Database Management System for Clinical Trials
 
 ## Business Rules
 ABC Hospital is having an opening to pitch a new database for its clinical studies. The main objective of the database is to make it easier for researchers to analyze and track activities in the study. For privacy and security reasons we need a more reliable database system. They wish to track the clinical studies being conducted through all 4 phases. They note down patients' demographics (name, age, gender, address, and email address), and assign them the study. The study includes a set of employees having different roles, such as nurses (who would administer drugs to the participant), physician (who would look at the results of the tests), an admin, and other researchers conducting the study. 
